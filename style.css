@@ -201,7 +201,7 @@ header {
 
 .hero-container {
     padding: clamp(64px, 4.8vw, 112px) clamp(20px, 4.4vw, 64px);
-    margin-top: 40px;
+    margin-top: 80px;
     display: flex;
     flex-direction: column;
     justify-content: center;
